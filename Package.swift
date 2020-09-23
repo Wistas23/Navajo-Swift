@@ -6,8 +6,8 @@ import PackageDescription
 let package = Package(
     name: "Navajo-Swift",
     platforms: [
-        .iOS(.v8),
-        .macOS(.v10_10),
+        .iOS(.v10),
+        .macOS(.v10_11),
     ],
     products: [
         // Products define the executables and libraries produced by a package, and make them visible to other packages.
